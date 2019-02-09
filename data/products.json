@@ -1,9 +1,1 @@
-[
-  {
-    "id": "0.24036274385579293",
-    "title": "dasd",
-    "imageUrl": "https://external-preview.redd.it/sD0qsYregbaubHyS62SynCZd72TCh3iDqS0rZ-85oiU.png?auto=webp&s=23864f1c5a7bf8c5397034631b16a0de5493bca9",
-    "description": "123213",
-    "price": "30"
-  }
-]
+[{"id":"123245","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"id":"0.6740500760490611","title":"Pewdiepie's Chair","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"chair","price":"32"}]
